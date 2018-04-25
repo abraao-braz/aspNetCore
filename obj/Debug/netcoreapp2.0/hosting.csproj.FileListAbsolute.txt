@@ -1,0 +1,11 @@
+C:\module3\hosting\bin\Debug\netcoreapp2.0\hosting.deps.json
+C:\module3\hosting\bin\Debug\netcoreapp2.0\hosting.runtimeconfig.json
+C:\module3\hosting\bin\Debug\netcoreapp2.0\hosting.runtimeconfig.dev.json
+C:\module3\hosting\bin\Debug\netcoreapp2.0\hosting.dll
+C:\module3\hosting\bin\Debug\netcoreapp2.0\hosting.pdb
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.csprojResolveAssemblyReference.cache
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.csproj.CoreCompileInputs.cache
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.AssemblyInfoInputs.cache
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.AssemblyInfo.cs
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.dll
+C:\module3\hosting\obj\Debug\netcoreapp2.0\hosting.pdb
